@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  多语言
+
+  Created by 唐蒙波 on 2019/4/23.
+  Copyright © 2019年 tangmengbo. All rights reserved.
+*/
+"CFBundleDisplayName" = "多语言";
+"NSCameraUsageDescription" = "快聊需要您的同意，才能访问相机，修改用户头像时拍摄照片(视频时使用摄像头)";

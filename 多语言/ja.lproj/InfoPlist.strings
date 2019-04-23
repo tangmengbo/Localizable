@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  多语言
+
+  Created by 唐蒙波 on 2019/4/23.
+  Copyright © 2019年 tangmengbo. All rights reserved.
+*/
+"CFBundleDisplayName" = "more languages";
+"NSCameraUsageDescription" = "Hala needs your permission to access the camera and take photos when modifying the user's profile picture (video USES the camera).";
