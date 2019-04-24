@@ -16,9 +16,9 @@
 		5F46BC4A226EF64000952399 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5F46BC4C226EF64000952399 /* InfoPlist.strings */; };
 		5F46BC52226EF6C100952399 /* Text_Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5F46BC54226EF6C100952399 /* Text_Localizable.strings */; };
 		5F46BC58226EF9C800952399 /* Image_Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5F46BC5A226EF9C800952399 /* Image_Localizable.strings */; };
-		5F46BC5F226EFA1800952399 /* E_hc_btn_liwu@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F46BC5E226EFA1800952399 /* E_hc_btn_liwu@3x.png */; };
+		5F46BC5F226EFA1800952399 /* English_liwu@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F46BC5E226EFA1800952399 /* English_liwu@3x.png */; };
 		5F46BC66226F039800952399 /* splash.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F46BC68226F039800952399 /* splash.xib */; };
-		5F46BC6E226F046400952399 /* E_hc_btn_signup@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F46BC6D226F046400952399 /* E_hc_btn_signup@3x.png */; };
+		5F46BC6E226F046400952399 /* Chiinese_signup@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F46BC6D226F046400952399 /* Chiinese_signup@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,11 +40,11 @@
 		5F46BC55226EF6C500952399 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Text_Localizable.strings; sourceTree = "<group>"; };
 		5F46BC59226EF9C800952399 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Image_Localizable.strings"; sourceTree = "<group>"; };
 		5F46BC5B226EF9C900952399 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Image_Localizable.strings; sourceTree = "<group>"; };
-		5F46BC5E226EFA1800952399 /* E_hc_btn_liwu@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "E_hc_btn_liwu@3x.png"; sourceTree = "<group>"; };
+		5F46BC5E226EFA1800952399 /* English_liwu@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "English_liwu@3x.png"; sourceTree = "<group>"; };
 		5F46BC67226F039800952399 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/splash.xib; sourceTree = "<group>"; };
 		5F46BC6B226F03BF00952399 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/splash.strings"; sourceTree = "<group>"; };
 		5F46BC6C226F03CC00952399 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/splash.xib; sourceTree = "<group>"; };
-		5F46BC6D226F046400952399 /* E_hc_btn_signup@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "E_hc_btn_signup@3x.png"; sourceTree = "<group>"; };
+		5F46BC6D226F046400952399 /* Chiinese_signup@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Chiinese_signup@3x.png"; sourceTree = "<group>"; };
 		5F46BC6F226F06C700952399 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/splash.strings; sourceTree = "<group>"; };
 		5F46BC70226F06C700952399 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Image_Localizable.strings; sourceTree = "<group>"; };
 		5F46BC71226F06C700952399 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Text_Localizable.strings; sourceTree = "<group>"; };
@@ -86,8 +86,8 @@
 				5F46BC35226EF61D00952399 /* ViewController.h */,
 				5F46BC36226EF61D00952399 /* ViewController.m */,
 				5F46BC68226F039800952399 /* splash.xib */,
-				5F46BC5E226EFA1800952399 /* E_hc_btn_liwu@3x.png */,
-				5F46BC6D226F046400952399 /* E_hc_btn_signup@3x.png */,
+				5F46BC5E226EFA1800952399 /* English_liwu@3x.png */,
+				5F46BC6D226F046400952399 /* Chiinese_signup@3x.png */,
 				5F46BC5A226EF9C800952399 /* Image_Localizable.strings */,
 				5F46BC54226EF6C100952399 /* Text_Localizable.strings */,
 				5F46BC4C226EF64000952399 /* InfoPlist.strings */,
@@ -162,11 +162,11 @@
 				5F46BC3F226EF61E00952399 /* LaunchScreen.storyboard in Resources */,
 				5F46BC58226EF9C800952399 /* Image_Localizable.strings in Resources */,
 				5F46BC4A226EF64000952399 /* InfoPlist.strings in Resources */,
-				5F46BC5F226EFA1800952399 /* E_hc_btn_liwu@3x.png in Resources */,
+				5F46BC5F226EFA1800952399 /* English_liwu@3x.png in Resources */,
 				5F46BC3C226EF61E00952399 /* Assets.xcassets in Resources */,
 				5F46BC52226EF6C100952399 /* Text_Localizable.strings in Resources */,
 				5F46BC3A226EF61D00952399 /* Main.storyboard in Resources */,
-				5F46BC6E226F046400952399 /* E_hc_btn_signup@3x.png in Resources */,
+				5F46BC6E226F046400952399 /* Chiinese_signup@3x.png in Resources */,
 				5F46BC66226F039800952399 /* splash.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

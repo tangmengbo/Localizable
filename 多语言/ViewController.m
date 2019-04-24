@@ -23,7 +23,7 @@
     [self.view addSubview:testLable];
     
     UIImageView * imageView  = [[UIImageView alloc] initWithFrame:CGRectMake(100, 130, 50, 50)];
-    imageView.image = [UIImage imageNamed:IMG_LanguageInternationalization(@"舞台_报名")];
+    imageView.image = [UIImage imageNamed:NSLocalizedStringFromTable(@"舞台_报名",@"Image_Localizable" , @"nil")];//[UIImage imageNamed:IMG_LanguageInternationalization(@"舞台_报名")];
     [self.view addSubview:imageView];
 }
 
